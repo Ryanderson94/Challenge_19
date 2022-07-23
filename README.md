@@ -40,11 +40,11 @@ run pip install -r requirements.txt
 ---
 
 ## Validation
-As per the screenshot below, four additional blocks have been addeed to the chain, and upon clicking the 'Validate Chain' button, we receive a True statement indicating the validity of the entire ledger.
+<img width="1194" alt="Screen Shot 2022-07-23 at 9 52 02 AM" src="https://user-images.githubusercontent.com/98444459/180608689-30fb053a-f1fe-424a-a16e-21f4c486039c.png">
+<img width="1194" alt="Screen Shot 2022-07-23 at 9 52 02 AM" src="https://user-images.githubusercontent.com/98444459/180608702-cf7c4cc2-128b-4d3d-baa3-7e2f905375ed.png">
+<img width="333" alt="Screen Shot 2022-07-23 at 9 52 18 AM" src="https://user-images.githubusercontent.com/98444459/180608706-ef5a3b9e-1a9e-49be-9c43-ce6fa5682c69.png">
+<img width="1194" alt="Screen Shot 2022-07-23 at 9 54 00 AM" src="https://user-images.githubusercontent.com/98444459/180608716-e3d346a9-467b-4780-b776-05e80bd9c18d.png">
 
-
-As per this screenshot below we can see the details of one of the blocks entered in the blockchain that has been selected using the dropdown. 
-![Screen Shot 2022-07-14 at 8 30 02 PM](https://user-images.githubusercontent.com/98444459/179123130-a02fc238-698e-4ec9-982e-5a8cec2af8df.png)
 
 --- 
 
