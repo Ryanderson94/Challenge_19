@@ -30,16 +30,20 @@ run pip install -r requirements.txt
 1. Navigate to the directory in either the Terminal or GitBash. 
 
 2. Run the following command: streamlit run pychain.py
-<img width="533" alt="Screen Shot 2022-07-17 at 1 10 56 PM" src="https://user-images.githubusercontent.com/98444459/179416949-cd4e4bda-f532-4195-b2ce-77f930e0b0cb.png">
+<img width="574" alt="Screen Shot 2022-07-23 at 10 19 11 AM" src="https://user-images.githubusercontent.com/98444459/180609053-b5c9877b-cd1b-4df8-8ed8-cd1ea4666e97.png">
 
 3. The Streamlit application will run locally in your browser and should launch automatically.
-<img width="988" alt="Screen Shot 2022-07-17 at 1 16 15 PM" src="https://user-images.githubusercontent.com/98444459/179417175-fb0f32f0-19cc-4cf2-bdc0-9bdaeb32509f.png">
+4. <img width="1442" alt="Screen Shot 2022-07-23 at 10 20 53 AM" src="https://user-images.githubusercontent.com/98444459/180609108-0c93e7e5-7255-4a2e-aa7f-75c1080b4fca.png">
 
-4. Enter details into the Sender ID, Receiver ID, Amount and click the 'Add Block' button. This will add a block to the ledger. This can be validated in two ways: the new block will appear as a new row in the PyChain ledger dataframe and secondly, will appear under the Block Inspector dropdown. 
+4. The application will pull in your crypto wallet and provide you with the public address and the account balance. Review the individuals from the list provided, then use the 'Select a Person' dropdown to indicate the individual you would like to hire. Indicate the number of hours for which you would like to hire them, and click 'Send Transaction' to deliver the Eth.
+![FintechFinder](https://user-images.githubusercontent.com/98444459/180609199-1814b225-285e-417f-9738-078ac48fa7e6.gif)
+
+5. If you have insufficient funds, you will receive an error. Otherwise, balloons will appear and your transaction hash will appear under the button. 
 
 ---
 
-## Validation
+## Transaction Validation
+
 <img width="1194" alt="Screen Shot 2022-07-23 at 9 52 02 AM" src="https://user-images.githubusercontent.com/98444459/180608689-30fb053a-f1fe-424a-a16e-21f4c486039c.png">
 <img width="1194" alt="Screen Shot 2022-07-23 at 9 52 02 AM" src="https://user-images.githubusercontent.com/98444459/180608702-cf7c4cc2-128b-4d3d-baa3-7e2f905375ed.png">
 <img width="333" alt="Screen Shot 2022-07-23 at 9 52 18 AM" src="https://user-images.githubusercontent.com/98444459/180608706-ef5a3b9e-1a9e-49be-9c43-ce6fa5682c69.png">
