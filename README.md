@@ -33,7 +33,7 @@ run pip install -r requirements.txt
 <img width="574" alt="Screen Shot 2022-07-23 at 10 19 11 AM" src="https://user-images.githubusercontent.com/98444459/180609053-b5c9877b-cd1b-4df8-8ed8-cd1ea4666e97.png">
 
 3. The Streamlit application will run locally in your browser and should launch automatically.
-4. <img width="1442" alt="Screen Shot 2022-07-23 at 10 20 53 AM" src="https://user-images.githubusercontent.com/98444459/180609108-0c93e7e5-7255-4a2e-aa7f-75c1080b4fca.png">
+<img width="1442" alt="Screen Shot 2022-07-23 at 10 20 53 AM" src="https://user-images.githubusercontent.com/98444459/180609108-0c93e7e5-7255-4a2e-aa7f-75c1080b4fca.png">
 
 The application will pull in your crypto wallet and provide you with the public address and the account balance. Review the individuals from the list provided, then use the 'Select a Person' dropdown to indicate the individual you would like to hire. Indicate the number of hours for which you would like to hire them, and click 'Send Transaction' to deliver the ETH.
 ![FintechFinder](https://user-images.githubusercontent.com/98444459/180609199-1814b225-285e-417f-9738-078ac48fa7e6.gif)
